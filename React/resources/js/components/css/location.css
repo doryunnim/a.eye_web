@@ -1,0 +1,49 @@
+html,
+body,
+#google-map {
+    /* width: 1000px;
+    height: 720px;
+    margin: 5;
+    top: 10%;
+    left: 10%;
+    padding: 0; */
+}
+
+#search-panel {
+    position: absolute;
+    left: 6%;
+    top: 3%;
+    z-index: 5;
+    background-color: #FFFFFF;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    padding-left: 10px
+}
+
+/* marker tool bar */
+#floating-panel {
+    position: absolute;
+    left: 35%;
+    top: 3%;
+    z-index: 5;
+    background-color: #FFFFFF;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    /* font-family: 'Roboto', 'sans-serif'; */
+    /* line-height: 30px; */
+    padding-left: 10px;
+}
+
+#location_save {
+    position: absolute;
+    left: 75%;
+    top: 20%;
+    z-index: 5;
+    background-color: #FFFFFF;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    padding-left: 10px
+}
